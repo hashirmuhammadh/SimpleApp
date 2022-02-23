@@ -12,7 +12,7 @@ Based on React v17.
 Clone this repository
 
 ```bash
-git clone https://github.com/christerjohansson/react-authentication-page-template.git
+git clone https://github.com/hashirmuhammadh/SimpleApp.git
 ```
 
 go to react-auth-template directory.
